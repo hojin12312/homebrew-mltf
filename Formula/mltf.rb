@@ -14,7 +14,6 @@ class Mltf < Formula
   sha256 "beb2e8387f77400e419a16ef397dcfd31047f649bdf669896c587c461f801eef"
   license "Apache-2.0"
 
-
   depends_on arch: :arm64
   depends_on macos: :tahoe
   depends_on MltfMacOSRequirement
